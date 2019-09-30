@@ -1,4 +1,4 @@
-
-catchError {
+configFileProvider([configFile('')]) {
     // some block
 }
+
